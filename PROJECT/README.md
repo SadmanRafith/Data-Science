@@ -99,4 +99,3 @@ The main objective is to identify the key factors influencing loan approvals and
 
 ---
 
-## 📂 Project Structure (Recommended)  
